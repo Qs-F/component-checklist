@@ -1,3 +1,3 @@
 # doc `component-checklist`
 
-Checklist for implimenting components.
+コンポーネントを作成する際のチェックリストです。
