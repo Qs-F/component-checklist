@@ -17,7 +17,7 @@ Listは以下のようなものを指します(olでも同様です）。
 
 ## Details
 
-<a name="marker-isolation"></a>
+### <a name="marker-isolation">Listの中身が長くなっても，markerがきちんと独立して表示される（markerの下にテキストが回り込まない）</a>
 
 ```css
 ul {
